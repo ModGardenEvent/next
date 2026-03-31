@@ -144,6 +144,10 @@ metafile = true
 file = "mods/ears-platform-modern-fabric-2.0.0-modgardenfest.1.jar.disabled"
 
 [[files]]
+file = "mods/ears.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/enchanteds-sodium-options.pw.toml"
 metafile = true
 
