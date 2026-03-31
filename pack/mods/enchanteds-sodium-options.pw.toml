@@ -1,0 +1,13 @@
+name = "Enchanted's Sodium Options"
+filename = "enchanteds_sodium_options-1.1.4+0.8.7-mc26.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bd7qKEEC/versions/ZbVIBVly/enchanteds_sodium_options-1.1.4%2B0.8.7-mc26.1-fabric.jar"
+hash-format = "sha512"
+hash = "9e6a4efa371e108de0f495271bcaa986638841b759e13e4024b50a2a5744354dd76e3110c199d6aed306aa7c77426331ed74dfe1d8a3810ae0e65da9835b6654"
+
+[update]
+[update.modrinth]
+mod-id = "bd7qKEEC"
+version = "ZbVIBVly"

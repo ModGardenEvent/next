@@ -91,21 +91,15 @@ file = "config/waila/waila_plugins.json5"
 file = "config/yosbr/options.txt"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
+file = "mods/area-tools.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/area_lib-0.4.0+1.21.8.jar"
-
-[[files]]
-file = "mods/area_tools-0.2.0+1.21.5.modgarden.4.jar"
+file = "mods/area_lib.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/auroraslanterns.pw.toml"
 metafile = true
 
 [[files]]
@@ -125,12 +119,10 @@ file = "mods/badstdout.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/barricade.pw.toml"
-metafile = true
+file = "mods/barricade.pw.toml.disabled"
 
 [[files]]
-file = "mods/barriers-dont-block-rain.pw.toml"
-metafile = true
+file = "mods/barriers-dont-block-rain.pw.toml.disabled"
 
 [[files]]
 file = "mods/better-narrator-error.pw.toml"
@@ -149,10 +141,10 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ears-platform-modern-fabric-2.0.0-modgardenfest.1.jar"
+file = "mods/ears-platform-modern-fabric-2.0.0-modgardenfest.1.jar.disabled"
 
 [[files]]
-file = "mods/eiv.pw.toml"
+file = "mods/enchanteds-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
@@ -168,12 +160,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/floralie.pw.toml"
-metafile = true
+file = "mods/flowerbed-0.7.0+26.1.jar"
 
 [[files]]
-file = "mods/flowerbed.pw.toml"
-metafile = true
+file = "mods/glowcase-2.4.0+1.21.7.jar"
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
@@ -188,12 +178,7 @@ file = "mods/item-descriptions.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/jamlib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-metafile = true
+file = "mods/lambdabettergrass.pw.toml.disabled"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -204,7 +189,11 @@ file = "mods/lmft.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/map_utils-2.3.1+1.21.5.modgarden.1.jar"
+file = "mods/map_utils-2.3.2+26.1.jar"
+
+[[files]]
+file = "mods/mcqoy.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -223,16 +212,14 @@ file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/player-roles.pw.toml"
+file = "mods/player-roles-1.8.1+26.1-mod-garden.jar"
+
+[[files]]
+file = "mods/rrv.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/scattered-shards.pw.toml"
-metafile = true
+file = "mods/scattered-shards-1.9.3+1.21.7.jar"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -275,23 +262,13 @@ file = "mods/surveyor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tmyk.pw.toml"
-metafile = true
+file = "mods/worldedit-client.toml.disabled"
 
 [[files]]
-file = "mods/variantlib_nature-1.0.3+1.21.5.jar"
+file = "mods/worldedit-cui.pw.toml.disabled"
 
 [[files]]
-file = "mods/worldedit-client.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-cui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-server.pw.toml"
-metafile = true
+file = "mods/worldedit-server.pw.toml.disabled"
 
 [[files]]
 file = "mods/wthit.pw.toml"
