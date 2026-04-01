@@ -141,9 +141,6 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ears-platform-modern-fabric-2.0.0-modgardenfest.1.jar.disabled"
-
-[[files]]
 file = "mods/ears.pw.toml"
 metafile = true
 
@@ -164,7 +161,7 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/flowerbed-0.7.0+26.1.jar"
+file = "mods/flowerbed-0.7.0+26.1.1.jar"
 
 [[files]]
 file = "mods/glowcase-2.4.0+1.21.7.jar"
