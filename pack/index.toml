@@ -161,9 +161,6 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/flowerbed-0.7.0+26.1.1.jar"
-
-[[files]]
 file = "mods/flowerbed.pw.toml"
 metafile = true
 
@@ -270,6 +267,9 @@ file = "mods/worldedit-client.toml.disabled"
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml.disabled"
+
+[[files]]
+file = "mods/worldedit-fabric-mc26.1-7.4.3-SNAPSHOT-dist.jar"
 
 [[files]]
 file = "mods/worldedit-server.pw.toml.disabled"
@@ -627,9 +627,6 @@ file = "server-icon.png"
 
 [[files]]
 file = "server.properties"
-
-[[files]]
-file = "servers.dat"
 
 [[files]]
 file = "unsup.toml"
