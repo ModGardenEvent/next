@@ -164,6 +164,10 @@ metafile = true
 file = "mods/flowerbed-0.7.0+26.1.1.jar"
 
 [[files]]
+file = "mods/flowerbed.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/glowcase-2.4.0+1.21.7.jar"
 
 [[files]]
