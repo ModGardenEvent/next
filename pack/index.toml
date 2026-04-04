@@ -239,8 +239,7 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-metafile = true
+file = "mods/spark.pw.toml.disabled"
 
 [[files]]
 file = "mods/spawnanywhere.pw.toml"
