@@ -184,9 +184,6 @@ file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lambdabettergrass.pw.toml.disabled"
-
-[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
@@ -368,7 +365,7 @@ file = "resources/common/required/mg_shards/pack.mcmeta"
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
 
 [[files]]
-file = "resources/resourcepack/required/VanillaTweaks_r593684_MC1.21.x.zip"
+file = "resources/resourcepack/required/VanillaTweaks_r250899_MC26.1.x.zip"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/glowcase/lang/en_us.json"
