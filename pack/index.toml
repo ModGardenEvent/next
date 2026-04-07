@@ -180,6 +180,10 @@ file = "mods/item-descriptions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml.disabled"
 
 [[files]]
