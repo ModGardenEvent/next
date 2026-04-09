@@ -103,6 +103,10 @@ file = "mods/armorstandeditor.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/auroraslanterns.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/axiom-client.pw.toml"
 metafile = true
 
