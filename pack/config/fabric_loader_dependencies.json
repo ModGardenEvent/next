@@ -25,6 +25,11 @@
 			"-depends": {
 				"minecraft": ""
 			}
+		},
+		"lithium": {
+			"-depends": {
+				"minecraft": ""
+			}
 		}
 	}
 }
